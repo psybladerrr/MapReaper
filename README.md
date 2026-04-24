@@ -48,7 +48,7 @@ It helps you:
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="600"/>
-  [![image.png](https://s10.iimage.su/s/24/th_g67iY3HxJ6o7gfYCzsYIGaK8mTIbgErsJN89vHDy9.png)](https://iimg.su/i/67iY3H)
+  <img src="https://iimg.su/i/67iY3H" width="600"/>
 </p>
 
 ---
