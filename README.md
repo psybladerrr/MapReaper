@@ -48,7 +48,7 @@ It helps you:
 
 <p align="center">
   <img src="https://s10.iimage.su/s/24/g67iY3HxJ6o7gfYCzsYIGaK8mTIbgErsJN89vHDy9.png" width="600"/>
-  <img src="  https://s10.iimage.su/s/24/gfrJ36mx5zZ6ftDl635cyfZO9wJDkgUoDNaUFbPq4.png" width="600"/>
+  <img src="https://s10.iimage.su/s/24/gfrJ36mx5zZ6ftDl635cyfZO9wJDkgUoDNaUFbPq4.png" width="600"/>
 </p>
 
 ---
