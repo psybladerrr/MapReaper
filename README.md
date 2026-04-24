@@ -39,12 +39,12 @@ It helps you:
 <p align="center">
 
 ### 🌍 GeoGuessr Version  
-[![Download](https://img.shields.io/badge/RELEASES-GEOGUESSR-1f6feb?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
+[![Download](https://img.shields.io/badge/RELEASES-GEOGUESSR-1f6feb?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper-Geoguessr/releases/tag/v1.0.1-geoguessr)
 
 ---
 
 ### 🇷🇺 Russiaguessr Version  
-[![Download](https://img.shields.io/badge/RELEASES-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
+[![Download](https://img.shields.io/badge/RELEASES-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper-Geoguessr/releases/tag/v1.0.4-russiaguessr)
 
 </p>
 
@@ -148,13 +148,13 @@ Users are responsible for compliance with platform rules where it is used.
 
 <p align="center">
 
-### 🌍 GeoGuessr версия  
-[![Скачать](https://img.shields.io/badge/РЕЛИЗЫ-GEOGUESSR-1f6feb?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
+### 🌍 GeoGuessr Version  
+[![Download](https://img.shields.io/badge/RELEASES-GEOGUESSR-1f6feb?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper-Geoguessr/releases/tag/v1.0.1-geoguessr)
 
 ---
 
-### 🇷🇺 Russiaguessr версия  
-[![Скачать](https://img.shields.io/badge/РЕЛИЗЫ-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper/releases)
+### 🇷🇺 Russiaguessr Version  
+[![Download](https://img.shields.io/badge/RELEASES-RUSSIAGUESSR-8b0000?style=for-the-badge&logo=github)](https://github.com/psybladerrr/MapReaper-Geoguessr/releases/tag/v1.0.4-russiaguessr)
 
 </p>
 
