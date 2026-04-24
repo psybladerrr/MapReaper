@@ -34,7 +34,7 @@ It helps you:
 
 ---
 
-## 🌐 Versions
+## 🌐 DOWNLOAD
 
 <p align="center">
 
@@ -144,7 +144,7 @@ Users are responsible for compliance with platform rules where it is used.
 
 ---
 
-## 🌐 Версии
+## 🌐 СКАЧАТЬ
 
 <p align="center">
 
