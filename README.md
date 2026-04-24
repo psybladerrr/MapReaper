@@ -11,9 +11,11 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://s10.iimage.su/s/24/gKnfZp8xXR2ILQGzUX5m184U1kzzELvIRtp2uqwaW.png" alt="logo" width="200"/>
+  <img src="https://s10.iimage.su/s/24/gKnfZp8xXR2ILQGzUX5m184U1kzzELvIRtp2uqwaW.png" alt="logo" width="400"/>
 </p>
+
 ---
 
 # 🌍 English Version
