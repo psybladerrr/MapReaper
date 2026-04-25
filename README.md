@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="#-download">
+  <a href="https://github.com/psybladerrr/MapReaper-Geoguessr/tree/main#-installation">
     <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-LATEST%20VERSION-0ff?style=for-the-badge&logo=github&logoColor=0ff&labelColor=000000" alt="Download"/>
   </a>
 </p>
