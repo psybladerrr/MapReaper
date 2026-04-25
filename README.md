@@ -49,12 +49,12 @@
 </p>
 
 <p align="center">
-  <img src="https://s10.iimage.su/s/24/gW14HD3xypBpvJerCKqwCvf8LmgBddsfzRXLwvuyz.png" width="600"/>
+  <img src="https://s10.iimage.su/s/25/gVrdQvkx6YzzMmDvA1MhbSKHRrc8VDong80mU2cI0.png" width="600"/>
   <br><i>Modal window with interactive map and location details</i>
 </p>
 
 <p align="center">
-  <img src="https://s10.iimage.su/s/24/gg1DkXKxwHHYmXEHkfSXKVbvOdAUtneGKBuU1FA4e.png" width="600"/>
+  <img src="https://s10.iimage.su/s/25/gIJiVe8xuAvjoolnUOkzGhKYBUMZAk7CAKTnlCrUa.png" width="600"/>
   <br><i>Mini-map feature with auto-update</i>
 </p>
 
